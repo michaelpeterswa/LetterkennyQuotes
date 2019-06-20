@@ -1,0 +1,11 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "LetterkennyQuotes",
+            "version": "0.1",
+            "description": "this python script outputs a random quote from the CraveTV hit show Letterkenny",
+            "githubLink": "https://github.com/michaelpeterswa/LetterkennyQuotes"
+        }
+    ]
+}
