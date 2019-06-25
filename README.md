@@ -10,6 +10,16 @@ git clone https://github.com/michaelpeterswa/LetterkennyQuotes.git
 ```
 Or download the file manually.
 
+## Usage
+
+```
+lk
+lk --sfw
+lk --nsfw
+```
+
+![Usage image](img/lk.png?raw=true "LetterkennyQuotes")
+
 ## Release History
 
 * 0.1
